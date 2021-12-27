@@ -19,6 +19,6 @@ Example : A A C C
 
 ## Implementation
 
-I choose to use a 2-Dimensional Array instead of an Array of Stacks, since after some testing the 2-Dimensional Array version was a bit faster (for some reason 😕).
+I choose to use a 2-Dimensional Array instead of an Array of Stacks, since after some testing, the 2-Dimensional Array version was a bit faster (for some reason 😕).
 
 Using an Array of Stacks works as well, which I will be implemting once more later on.
